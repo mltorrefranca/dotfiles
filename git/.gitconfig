@@ -1,9 +1,9 @@
 [user]
-	name = James Tomasino
-	email = james@tomasino.org
+	name = Lu Torrefranca
+	email = mltorrefranca@gmail.com
 
 [github]
-	user = jamestomasino
+	user = mltorrefranca
 
 [core]
 	whitespace = trailing-space, space-before-tab, cr-at-eol
